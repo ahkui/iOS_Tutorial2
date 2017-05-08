@@ -1,0 +1,15 @@
+PODS:
+  - DynamicColor (3.2.1)
+  - SwifterSwift (1.6.4)
+
+DEPENDENCIES:
+  - DynamicColor (~> 3.2.1)
+  - SwifterSwift
+
+SPEC CHECKSUMS:
+  DynamicColor: 4786d650c69da6c3f2cbfe068348288ec4e5521f
+  SwifterSwift: 92c73c47c3cbf7d5f788adf6459bf07b5d23d3fb
+
+PODFILE CHECKSUM: b69eb6cb38ee0af9c2157ccbc7576cacf2ffa813
+
+COCOAPODS: 1.2.1
